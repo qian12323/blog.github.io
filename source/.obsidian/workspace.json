@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "f15b55ae3fe6e5a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa3fc1ead615906e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe0686e7fb651e6e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "239042d69e0ae279",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfda4814d3ec791e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41a5b77f40148d85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0f7b425e8a84f905",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "513563081050f2f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "317c176daa5cc0d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0afd452215ffd5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b1269767d607dc8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "22f568cf106f2452",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19b8b2b4557318d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b2304e0905b254d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/DB/demo1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "41a5b77f40148d85",
+  "lastOpenFiles": [
+    "diary/2025-09-14.md",
+    "diary/2025-09-14/image-20250914201254928.png",
+    "diary/2025-09-14",
+    "_posts/DB/demo1.md",
+    "_posts/DB/demo1/image-20250914201245409.png",
+    "_posts/DB/demo1",
+    "_posts/DB/Pasted image 20250914200802.png",
+    "OS/demo1.md",
+    "OS/demo1/image-20250914200254433.png",
+    "OS/demo1",
+    "DB/temp.md",
+    "OS",
+    "DB/temp/image-20250914200111706.png",
+    "DB/temp",
+    "DB/test1.md",
+    "images/image_1757850745893.png",
+    "images",
+    "DB/${filename}/image_1757850694225.png",
+    "DB/${filename}/image_1757850624873.png",
+    "DB/${filename}",
+    "DB/test1/image-20250914195024880.png",
+    "DB/test1",
+    "DB/image_1757850538961.png",
+    "template/blog.md",
+    "2025-09-14.md",
+    "Untitled.md",
+    "DB/haha.md",
+    "template",
+    "template.yaml",
+    "image-.md",
+    "hello-world.md",
+    "new/temp.md",
+    "haha/temp.md",
+    "haha/demo.md",
+    "temp.md"
+  ]
+}

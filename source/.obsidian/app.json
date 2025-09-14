@@ -1,0 +1,6 @@
+{
+  "attachmentFolderPath": "./demo1",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": true,
+  "promptDelete": false
+}
