@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "_posts/杂谈/博客搭建.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "41a5b77f40148d85",
+  "active": "fe0686e7fb651e6e",
   "lastOpenFiles": [
+    "_posts/杂谈/博客搭建/image-20250914211625876.png",
+    "_posts/杂谈/博客搭建",
     "_posts/DB/demo1.md",
     "_posts/杂谈/博客搭建.md",
     "_posts/杂谈",
@@ -177,7 +179,6 @@
     "2025-09-14.md",
     "Untitled.md",
     "DB/haha.md",
-    "template",
     "image-.md",
     "hello-world.md",
     "new/temp.md",
